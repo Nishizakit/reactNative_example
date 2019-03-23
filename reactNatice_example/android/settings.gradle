@@ -1,0 +1,3 @@
+rootProject.name = 'reactNatice_example'
+
+include ':app'
